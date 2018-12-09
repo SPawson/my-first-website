@@ -2,8 +2,15 @@
 
 Welcome to my project
 
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+## Summary
+This project was created as part of my Code Institute Full Stack Web Development Course.
+The purpose of this project therefore was to provide me with experience in creating a webpage
+using HTML and CSS. Whilst also giving me experience in using the command line and GIT and GITHub to control
+and manage files within an internal and remote repository.
+
+### Languages Used
+In this project I have used the following programming languages:
+<br>
+-HTML
+<br>
+-CSS
