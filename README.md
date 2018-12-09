@@ -14,3 +14,6 @@ In this project I have used the following programming languages:
 -HTML
 <br>
 -CSS
+
+### Link to GITHub Pages deployment
+URL: https://spawson.github.io/my-first-website/
